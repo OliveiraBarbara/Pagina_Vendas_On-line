@@ -9,4 +9,4 @@ Página criada como requisito da disciplina de Programação Web 1, utilizando c
 - CSS
 
 # :globe_with_meridians: Acesso a Página
-Para vizualizar a página web acesse: pagina-web-trabalho.vercel.app
+Para vizualizar a página web acesse: https://pagina-web-trabalho.vercel.app/
